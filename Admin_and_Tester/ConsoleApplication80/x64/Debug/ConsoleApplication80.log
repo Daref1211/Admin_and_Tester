@@ -1,0 +1,3 @@
+﻿  Menu.cpp
+D:\C++\ConsoleApplication80\ConsoleApplication80\Menu.cpp(16,28): warning C4129: "_": нераспознанная escape-последовательность символов
+  ConsoleApplication80.vcxproj -> D:\C++\ConsoleApplication80\x64\Debug\ConsoleApplication80.exe
